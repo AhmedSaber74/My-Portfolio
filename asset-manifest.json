@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.d24bbbf2.css",
+    "main.js": "/My-portfolio/static/js/main.e09395a7.js",
+    "static/js/415.4d6acbeb.chunk.js": "/My-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/My-Img.png": "/My-portfolio/static/media/My-Img.30ab5e8e88ac6d997b1e.png",
+    "static/media/Jop-searsh.jpeg": "/My-portfolio/static/media/Jop-searsh.5816d748dc57caaf134c.jpeg",
+    "static/media/react.webp": "/My-portfolio/static/media/react.ba0b231f6658473e4e4c.webp",
+    "static/media/FULL-STACK.JPG": "/My-portfolio/static/media/FULL-STACK.10f297b26e981b9deea7.JPG",
+    "static/media/ITI.JPG": "/My-portfolio/static/media/ITI.7e5fc176bd5a54c37092.JPG",
+    "static/media/FRONT-END.JPG": "/My-portfolio/static/media/FRONT-END.5ed705b8b51cd0f51098.JPG",
+    "static/media/home-main.svg": "/My-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/My-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/meal-3.jpg": "/My-portfolio/static/media/meal-3.14140d4f1b731f84b04a.jpg",
+    "static/media/Ahmed Saber Shaban1.pdf": "/My-portfolio/static/media/Ahmed Saber Shaban1.85b916c7a0ec6b523416.pdf",
+    "static/media/home-bg.jpg": "/My-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/My-logo.png": "/My-portfolio/static/media/My-logo.04006969b6daae0993b5.png",
+    "static/media/pre.svg": "/My-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/My-portfolio/index.html",
+    "main.d24bbbf2.css.map": "/My-portfolio/static/css/main.d24bbbf2.css.map",
+    "main.e09395a7.js.map": "/My-portfolio/static/js/main.e09395a7.js.map",
+    "415.4d6acbeb.chunk.js.map": "/My-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24bbbf2.css",
+    "static/js/main.e09395a7.js"
+  ]
+}
